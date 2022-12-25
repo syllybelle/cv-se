@@ -4,7 +4,7 @@
 
 ww.linkedin.com/in/sylvia-van-belle  
 https://github.com/syllybelle  
-https://www.researchgate.net/profile/Sylvia-Van-Belle/
+https://www.researchgate.net/profile/Sylvia-Van-Belle/  
  
 ## EDUCATION
 ### Tertiary:
@@ -38,7 +38,7 @@ Online
 	
 ## EXPERIENCE
 ### Employment
-Junior Data Scientist: WIMMY (Pty) Ltd
+Data Scientist: [WIMMY (Pty) Ltd](https://wimmy.co.za/)
 - 01 Jan 2022 – Present
 - Medical analytical consultancy start-up
 	- Responsibilities: Development of scoping documents and analysis plans to present to clients, performing literature reviews, identification of data sources and automation of data collection with cloud-based pipelines, processing and analysis. Testing and evaluation of models, identification of trends, research and implementation of statistical and mathematical methods including predictive and machine-learning models and writing and presenting analytical reports to lay persons.
