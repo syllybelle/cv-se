@@ -2,9 +2,7 @@
 #### Currriculum Vitae
 !> up to date as of Feb 2022
 
-***REMOVED***	
 ww.linkedin.com/in/sylvia-van-belle  
-Century City, Cape Town	
 https://github.com/syllybelle  
 https://www.researchgate.net/profile/Sylvia-Van-Belle/
  
