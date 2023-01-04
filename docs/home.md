@@ -3,50 +3,140 @@
 
 ## Personal note
 I am a medical researcher looking for a research/data science/clinical position in Sweden and Norway. I have extensive clinical 
-experience through a 6-year medical degree, with additional research experience through a 1-year honours course and 
-extracurricular projects. Through a desire to learn more powerful statistical tools relevent to the complex and 
+experience through a 6-year medical degree, with additional wet- and dry-lab research experience through a 1-year honours course 
+and extracurricular projects. Through a desire to learn more powerful statistical tools relevent to the complex and 
 multidimensional nature of medicine and physiology, I have been working as a data scientist for health 
 analytics startup [WIMMY (Pty) Ltd](https://wimmy.co.za/). This position has additionally given me exposure to the role of 
 enterprise in medicine, and experience with a wide array of software development systems and computer science concepts.
 
 I enjoy scoping and mapping out complex problems and projects so that meaningful, clear insights can be derived. I am always 
 willing to explore new skills and concepts in order to meet technical or scientific standards, driven by a deep investment in 
-the quality of output, on personal and team levels.
+the veracity and quality of output, on personal and team levels. I have a particular research interest in the pathophysiology of 
+neuropsychiatric disorders, and my ideal research project would involve re-examining psychiatric biomarkers in an 
+undifferentiated/undiagnosed cohort of presenting patients, to see if new insights about brain function and dysfunction can be 
+derived when the potentially confounding impact of syndromic diagnosis is removed.
 
+## Education
+### Degree: MBChB
+> University of Cape Town (2020)  
+> Language of instruction: English  
+- 2014-2016: years 1-3 of the MBChB medical degree ("bioscience years")
+- 2016: Additional “Molecular Medicine” course (for acceptance into BMedSci programme)
+ <details>  
+ <summary> &emsp; Coursework </summary>
 
+  - an introduction to modern bioscientific methods and the philosophy of science
+  - an introduction to bioinformatics and data analysis
+  - participation in journal clubs
+  - genetics and genomics
+  - hands-on experience with plasmid vectors and DNA extraction, (q)PCR and NGS and flow cytometry, western blotting
+</details>
 
-
-## EDUCATION
-### Tertiary:
-University of Cape Town (2014-2020):
-Language of instruction: English
-- 2014-2016: years 1-3 of the MBChB medical degree
-- 2016: Additional “Molecular Medicine” course
-- 2017: B(Med)Sc Honours in Physiology and Neuroscience (awarded in the first class), consisting of a semester of course work and a semester working on a project and dissertation.
-- 2018-2020: years 4-6 of the MBChB medical degree
+- 2018-2020: years 4-6 of the MBChB medical degree ("clinical years")
 - 2019: 2-week elective in consultation-liaison psychiatry with Groote Schuur Hospital’s Psychiatry Department
-### Secondary: 
-Fish Hoek High School (2009-2013):
-Language of instruction: English
-- named Dux student, received several academic awards, participated in external mathematics and physical sciences Olympiads. For school-leaving NSC, received 7 As and a B for Afrikaans Home Language (in addition to English Home Language)
-- extramural: tap and modern dance classes, played piano (approx. Grade 8) and violin (approx. Grade 5) attended choir and ensemble groups, attended French classes, a member of the Girl Guides Association.
+
+### Degree: BMedSci (Hons) (Phys)
+> University of Cape Town (2017)  - Awarded in the first class
+> Specialising in physiology and neuroscience    
+> Language of instruction: English  
+
+- Feb - June 2017: course work
+ <details>
+ <summary> &emsp; Coursework </summary>
+
+  - Scientific communication
+    - basic statistics
+    - philosophy of science
+    - conducting literature reviews
+  - Introduction to the nervous system and neuroanatomy
+  - The central stress network and top down self-regulation
+  - Physiology and pharmacology of excitable cells
+  - Degeneration and regeneration in the nervous system
+</details>  
+
+- July - Nov 2017: project with dissertation.
+ <details>
+ <summary> &emsp; Components </summary>  
+  
+  - Literature review
+  - Development of research plan
+  - Ethics application
+  - Experimentation: western blotting and immunohistochemistry
+  - Dissertation write-up
+  - Presentation  
+</details> 
+
+### School-leaving National Senior Certificate
+> Fish Hoek High School (2013)
+> Language of instruction: English  
+<details>
+ <summary> &emsp; Subjects </summary>
+  - English HOme Language
+  - Afrikaans Home Language
+  - Mathematics
+  - Life Orientation
+  - History
+  - Music
+  - Physical Sciences
+
+</details> 
+
+
 ### Additional educational courses
-The International Brain Research Organization (IBRO)-UCT African Advanced School on Techniques in Neuroscience (2-18 December 2017):
-- reading human EEGs, analysing rodent behaviour, immunohistochemistry and stereology, whole-cell patch clamp electrophysiology, optogenetics, neuronal calcium imaging, thesis presentation, project proposal writing assignment
-University of Cape Town: Molecular Medicine Course (IBS 3020) (2016):
-- a UCT course integrated into 3rd year medicine for students choosing to do an Honours degree
-- course work included lectures on modern bioscientific methods, bioinformatics and data analysis, participation in journal clubs and hands on experience with several wet-lab techniques, including working with plasmid vectors and DNA extraction, exposure to genetic techniques including microarray chips, (q)PCR and NGS and flow cytometry.
-Uppsala Universitet: Research Project in Neuroscience (3NR230) (2021-01-18 – 2021-06-06)
-- 30 credits
-- critically evaluate and discuss scientific literature, analyse, evaluate and discuss the importance of received scientific results, present and discuss scientific data and conclusions in good written and oral form, follow research-ethical norms and rules.
-- the project involved data sanitation and preparation, statistical analysis and preparation and submission of an article (see below)
-- I have used this course as an opportunity to refine data wrangling skills using Python and MySQL, as well my statistical analysis skills, primarily using SPSS, but implementing plugins and experimenting with R-based tools for more advanced tests as required.
-Online
-- Mathematics for Machine Learning: Linear Algebra, Imperial College London through Coursera (Oct 2021)
-		5-week course. Covered linear algebra, matrix transformations, eigenvalues and eigenvectors.
--	Various Python- and machine-learning-related courses on DataCamp.
+- The International Brain Research Organization (IBRO)-UCT African Advanced School on Techniques in Neuroscience
+ <details> 
+ <summary> &emsp; Details </summary>
+
+  - 2-18 December 2017  
+  - Language of instruction: English  
+  - Topics/activities:
+    - reading human EEGs
+    - analysing rodent behaviour
+    - immunohistochemistry and stereology
+    - whole-cell patch clamp electrophysiology
+    - optogenetics
+    - neuronal calcium imaging
+    - thesis presentation
+    - project proposal writing assignment
+</details> 
+
+
+- Research Project in Neuroscience (3NR230) (2021-01-18 – 2021-06-06)
+ <details> 
+ <summary> &emsp; Details </summary>
+
+  - Uppsala University (remote)
+  - 18 Jan - 6 June 2021  
+  - Language of submission: English 
+  - 30 credits
+  - Activities:
+    - Data wrangling of survey responses
+    - search and evaluate existing literature
+    - devise an analysis plan based on previous work, including critically deternmining test suitability and validity
+    - learn the required statistical techniques required to carry out the analysis
+    - Write up the project in the form of a dissertation
+  - Skills:
+    - Python & MySQL
+    - Statistical techniques explored: Principal component analysis, K-means clustering, multiple regression, ANOVA and MANOVA
+    - Scientific writing
+    - Preparation and submission of an article (unpublished)
+</details> 
+
+
+- Mathematics for Machine Learning: Linear Algebra [Coursera Course](https://www.coursera.org/learn/linear-algebra-machine-learning)
+ <details> 
+ <summary> &emsp; Details </summary>
+
+  - October 2021  
+  - Offered by Imperial College London
+  - 5-week course. Covered linear algebra, matrix transformations, eigenvalues and eigenvectors
+</details> 
+
+- Assorted [DataCamp](https://www.datacamp.com/) courses on Python and Machine learning (2022)
+- Swedish A2 Distance Live (Folkuniversitetet) (1 Sept - 15 Dec 2022)
+
 	
-## EXPERIENCE
+## Experience
 ### Employment
 Data Scientist: [WIMMY (Pty) Ltd](https://wimmy.co.za/)
 - 01 Jan 2022 – Present
