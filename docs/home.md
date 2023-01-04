@@ -1,11 +1,21 @@
-# Sylvia Van Belle
-#### Currriculum Vitae
+
 !> up to date as of Feb 2022
 
-ww.linkedin.com/in/sylvia-van-belle  
-https://github.com/syllybelle  
-https://www.researchgate.net/profile/Sylvia-Van-Belle/  
- 
+## Personal note
+I am a medical researcher looking for a research/data science/clinical position in Sweden and Norway. I have extensive clinical 
+experience through a 6-year medical degree, with additional research experience through a 1-year honours course and 
+extracurricular projects. Through a desire to learn more powerful statistical tools relevent to the complex and 
+multidimensional nature of medicine and physiology, I have been working as a data scientist for health 
+analytics startup [WIMMY (Pty) Ltd](https://wimmy.co.za/). This position has additionally given me exposure to the role of 
+enterprise in medicine, and experience with a wide array of software development systems and computer science concepts.
+
+I enjoy scoping and mapping out complex problems and projects so that meaningful, clear insights can be derived. I am always 
+willing to explore new skills and concepts in order to meet technical or scientific standards, driven by a deep investment in 
+the quality of output, on personal and team levels.
+
+
+
+
 ## EDUCATION
 ### Tertiary:
 University of Cape Town (2014-2020):
