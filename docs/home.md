@@ -223,36 +223,6 @@ In 2020 I hosted and chaired two discussions:
 The Ethics of In-Patient Care (18 February 2020), with psychiatrist Dr Sean Baumann, with particular focus on the limitations of the South African health care system https://www.facebook.com/events/2644866522267301/ 
 Supporting Recovery and Social Reintegration Post-Admission (3 March 2020), with a social worker, an occupational therapist and a mental health advocate from local NGO Cape Mental Health https://www.facebook.com/events/1331182620423723/ 
 
-***REMOVED***
-***REMOVED***
-***REMOVED***
-***REMOVED***
-***REMOVED***
-
-***REMOVED***
-***REMOVED***
-***REMOVED***
-***REMOVED*** 
-
-***REMOVED***
-***REMOVED***
-***REMOVED***
-***REMOVED*** 
-
-***REMOVED***
-***REMOVED***
-***REMOVED***
-***REMOVED***
-
-***REMOVED***
-***REMOVED***
-***REMOVED***
-***REMOVED*** 
-
-***REMOVED***
-***REMOVED***
-***REMOVED***
-***REMOVED*** 
 
  
 
