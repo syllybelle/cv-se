@@ -1,5 +1,5 @@
 
-!> UNDER CONSTRUCTION
+!> Last updated: 7 Jan 2023
 
 ## Personal note
 I am a medical researcher looking for a research/data science/clinical position in Sweden and Norway. I have extensive clinical 
@@ -9,12 +9,16 @@ multidimensional nature of medicine and physiology, I have been working as a dat
 analytics startup [WIMMY (Pty) Ltd](https://wimmy.co.za/). This position has additionally given me exposure to the role of 
 enterprise in medicine, and experience with a wide array of software development systems and computer science concepts.
 
+
 I enjoy scoping and mapping out complex problems and projects so that meaningful, clear insights can be derived. I am always 
 willing to explore new skills and concepts in order to meet technical or scientific standards, driven by a deep investment in 
-the veracity and quality of output, on personal and team levels. I have a particular research interest in the pathophysiology of 
-neuropsychiatric disorders, and my ideal research project would involve re-examining psychiatric biomarkers in an 
-undifferentiated/undiagnosed cohort of presenting patients, to see if new insights about brain function and dysfunction can be 
-derived when the potentially confounding impact of syndromic diagnosis is removed.
+the veracity and quality of output, on personal and team levels. I place great value in knowledge sharing, and love learning 
+from other people, and sharing my own knowledge with others.
+
+I have a particular research interest in the pathophysiology of neuropsychiatric disorders, and my ideal research  project 
+would involve re-examining psychiatric biomarkers in an undifferentiated/undiagnosed cohort of presenting patients, to see if 
+new insights about brain function and dysfunction can be derived when the potentially confounding impact of syndromic 
+diagnosis is removed.
 
 ## Education
 ### Degree: MBChB
@@ -22,7 +26,7 @@ derived when the potentially confounding impact of syndromic diagnosis is remove
 > Language of instruction: English  
 - 2014-2016: years 1-3 of the MBChB medical degree ("bioscience years")
 - 2015: 4 week 'special studies' based on an original research question and self-devised research plan on eHealth and mHealth 
-  in South African mental health care.
+  in South African mental health care. 
 - 2016: Additional “Molecular Medicine” course (for acceptance into BMedSci programme)
  <details>  
  <summary> &emsp; Coursework </summary>
@@ -34,7 +38,7 @@ derived when the potentially confounding impact of syndromic diagnosis is remove
   - hands-on experience with plasmid vectors and DNA extraction, (q)PCR and NGS and flow cytometry, western blotting
 </details>
 
-- 2018-2020: years 4-6 of the MBChB medical degree ("clinical years")
+- 2018-2020: years 4-6 of the MBChB medical degree ("clinical years"), including rotations through various specialities
 - 2019: 2-week elective in consultation-liaison psychiatry with Groote Schuur Hospital’s Psychiatry Department
 
 ### Degree: BMedSci (Hons) (Phys)
@@ -57,6 +61,8 @@ derived when the potentially confounding impact of syndromic diagnosis is remove
 </details>  
 
 - July - Nov 2017: project with dissertation.
+  - dissertation title: *Neuroinflammation in peripherally helminth-infected mice: exploring mechanisms of behaviour change in 
+    a chronic inflammatory model.*
  <details>
  <summary> &emsp; Components </summary>  
   
@@ -85,57 +91,27 @@ derived when the potentially confounding impact of syndromic diagnosis is remove
 
 
 ### Additional educational courses
-- The International Brain Research Organization (IBRO)-UCT African Advanced School on Techniques in Neuroscience
- <details> 
- <summary> &emsp; Details </summary>
 
-  - 2-18 December 2017  
-  - Language of instruction: English  
-  - Topics/activities:
-    - reading human EEGs
-    - analysing rodent behaviour
-    - immunohistochemistry and stereology
-    - whole-cell patch clamp electrophysiology
-    - optogenetics
-    - neuronal calcium imaging
-    - thesis presentation
-    - project proposal writing assignment
-</details> 
-
-
-- Research Project in Neuroscience (3NR230) (18 Jan - 6 June 2021)
- <details> 
- <summary> &emsp; Details </summary>
-
+- Research Project in Neuroscience (3NR230) (18 Jan - 6 June 2021)  
   - Uppsala University (remote)
   - 18 Jan - 6 June 2021  
   - Language of submission: English 
   - 30 credits
-  - Activities:
-    - Data wrangling of survey responses
-    - search and evaluate existing literature
-    - devise an analysis plan based on previous work, including critically deternmining test suitability and validity
-    - learn the required statistical techniques required to carry out the analysis
-    - Write up the project in the form of a dissertation
-  - Skills:
-    - Python & MySQL
-    - Statistical techniques explored: Principal component analysis, K-means clustering, multiple regression, ANOVA and MANOVA
-    - Scientific writing
-    - Preparation and submission of an article (unpublished)
-</details> 
-
+  - Dissertation title: *Profiling lockdown adherence and poor coping responses towards the COVID-19 crisis in an international 
+    cross-sectional servey*
 
 - Mathematics for Machine Learning: Linear Algebra [Coursera Course](https://www.coursera.org/learn/linear-algebra-machine-learning)
- <details> 
- <summary> &emsp; Details </summary>
-
   - October 2021  
   - Offered by Imperial College London
   - 5-week course. Covered linear algebra, matrix transformations, eigenvalues and eigenvectors
-</details> 
+
+- The International Brain Research Organization (IBRO)-UCT African Advanced School on Techniques in Neuroscience
+  - 2-18 December 2017  
+  - Language of instruction: English
 
 - Assorted [DataCamp](https://www.datacamp.com/) courses on Python and Machine learning (2022)
 - Swedish A2 Distance Live (Folkuniversitetet) (1 Sept - 15 Dec 2022)
+  - Language of instruction: Swedish
 
 	
 ## Experience
@@ -179,100 +155,117 @@ Teaching Assistant at the **University of Cape Town [![UCT logo with link to uct
 
 
 ## Skills and technologies
-### Clinical medicine
-- significant exposure
-- brief exposure
-- competent in history taking, examination, assessment and management plan formulation for most common illness presentations, and skilled recognising my knowledge limitations and accessing and assessing information from a variety of sources when this occurs. 
-- case presentation, referrals and other administration.
-- interpretation of common lab and imaging results
-- pharmaceutical dose calculation and administration
-- competent in venepuncture, IM injections, IV cannulation, urethral catheterisation, lumbar punctures
-- have performed: theatre assistance (including caesarean sections), labour monitoring, vaginal deliveries, tracheal intubation and ventilation, nasogastric tube insertion, continuous and interrupted suturing, fine needle aspiration, administration of local anaesthetic, chest drain insertion
-- have attended multiple basic and advanced life support training sessions (as course-work, no formal certification), and participated in two active ward-based resuscitations
 
-### Communication
-- literature reviews  
-- oral presentation of research  
-- lecturing and respondign to student questions  
-- client communication  
-- Lanugages
+### Data science and statistics
+
+- data quality assessment
+- multi-dimensional real-world data wrangling and data modellings
+- critically deternmining test suitability and validity, and exploring more appropriate solutions
+- techniques
+  - significant exposure  
+    - wilcoxon rank-sum and signed-rank tests, chi-squared tests, t-tests, ANOVAs, MANOVAs, linear regressions
+    - principal component analysis and K means clustering
+  - brief hands-on exposure 
+    - spacial data analysis
+    - structural equation modelling
+    - grid-search hyperparameter tuning
+    - conducting semi-structured interviews
+    - manual (non-ML) thematic analysis
+    - comparison of ML model outputs wrt statistical validity as well as clinical value 
+  - theoretical understanding
+    - LSTM RNNs
+    - logistic regressions and random forest classifiers
+    - agent-based modelling
+- technologies
+  - Python:
+    - jupyter notebooks
+    - numpy, pandas, scikit-learn, tensorflow, keras-tuner
+    - matplotlib, seaborn, plotly
+    - mysql connectors and query builders (for query santisation), e.g. mysqlclient, pypika
+  - R: non-fluent, can understand and modifty R code
+  - Azure Machine Learning
+  - SPSS, GraphPad Prism, ImageJ, MS Excel
   - 
-  - English (Primary home lanugage)  
+
+### DataOps, DevOPs, Software enginering
+Experience and experimentation with:
+- SAAS development
+  - Python: Dash (dash.plotly) and Flask
+  - CSS, Bootstrap components
+  - Graphana
+- Code environment, documentation and version management:
+  - GitHub, Azure DevOps
+  - conda
+  - development of python packages
+- Deployment
+  - Docker
+  - GitHub Actions
+  - ghcr.io
+  - Azure container registeries
+  - Azure container apps
+- Data flow pipelines
+  - Azure MySQL servers, Azure Data Factory
+
+
+### Communication  
+- languages
+  - English (Primary home language)  
   - Dutch (Secondary home language)  
   - Afrikaans (fluent non-home language)  
-  - French  
-  - Swedish    
-  - 
-- data story telling
-- md
-- I enjoy engaging with linguistics and etymology on a theoretical level.
-- psych soc, talks. 
-- amateru design stuff
+  - French (very rusty conversational - high school)
+  - Swedish (CEFR-level A2 - 2022)
+- scientific communication
+  - conducting literature searches, summaries and reviews
+  - writing ethics applications
+  - writing academic dissertations and articles
+  - formulation of written, graphical and oral data stories to convey coherent, intelligable insights to laypeople and experts
+  - lecturing and responding to student questions
+  - hosting scientific talks with guest speakers
+
+
+### Clinical medicine
+> predominantly 2018-2020
+- significant exposure
+  - history taking, system-specific and general examination, assessment and management plan formulation for most common illness 
+    presentations
+  - accessing clinical resources and practice guidelines
+  - pharmaceutical dose calculation and adminsitration
+  - interpretation of common lab and imaging results
+  - presenting cases and writing clinical notes, referrals and discharge summaries
+  - venepuncture, arterial blood sampling, manual blood-pressure monitoring, IM injections, IV canulation, urethral 
+    catheterisation, lumbar punctures
+  - advanced life support training (course work, no formal certification)
+- brief exposure
+  - theatre assistance (including caesarean sections), tracheal intubation and ventilation, continuous and interrupted suturing
+  - labour monitoring, vaginal deliveries
+  - nasogastric tube insertion (paediatric), fine needle aspiration, administration of local anaesthetic, chest drain insertion
+  - active resuscitation (DKA, hyperkalaemia, submassive pulmonary embolus, severe hypothyroidism)
+  - dislocation reduction, ophthalmoscopy and other speciality-specific techniques.
 
 ### Wet-lab
-- significant exposure, including debugging (2017-2019)
+> predominantly 2017-2019
+- significant exposure, including debugging 
   -  western blots (chemiluminescent and calorimetric)
-  -  immunohistochemistry (confocal and DAB brightfield) (cryostat, microtome)
-- 
+  -  immunohistochemistry (confocal and DAB brightfield) (sectioning: cryostat, microtome)
+
 - brief hands-on exposure (2016, 2017)
   - ELISA
-  - neuron patch-clamping
+  - whole-cell patch clamp electrophysiology and neuronal calcium imaging
+  - optogenetics
   - isolated perfused heart assay ('Langendorf')
   - cytokine assays
   - ELISAs
   - EEG-recording
   - basic plasmid-based genetic engineering using plasmids
   - plate readers, CCD cameras
-- 
-- theoretical understanding
-
-### Data science and statistics  
-
-- significant exposure  
-- 
-  - techniques
-  - 
-    - principal componenet analysis
-    - K-means clustering
-    - ANOVA & MANOVA
-    - linear regression
-    - distribution comparisons, ANOVA & MANOVA, linear regression, structural equation modelling
-    - map stuff
-  - technologies
-  - 
-    - Python, jupyter notebooks. packages (matpltolib seabornn, keras)
-    - MySQL
-    - Azure Data Factory, Azure ML, 
-    - R
-- brief hands-on exposure 
-- 
-  - semi-structured interviews (2015)
-  - manual thematic analysis (2015)
-  - grid search
-  - RNNs & decision trees
-  - agent-based modelling
-- data description, and how the sample characteristics impact the choice of analytic tests
-- Principal component analysis, K-means clustering, multiple regression, ANOVA and MANOVA
-- SPSS, GraphPad Prism, ImageJ
-
-### DataOps, DevOPs, Software enginering
-- git hub, github actions, ghcr.io
-- conda envs
-- docker, containerisation
-- css 
-- javascript
-- azure devops, azure mysql server, azure container apps
-- python dash with css, callbacks, bootstrap elemetns
-- edsigning data flow diagrams
-- auth
+  - observed and assisted with mouse hippocampus sample collection
+  - analysing rodent behaviour
+  - stereology
 
 
 ## References
 ?> References provided on request
  
-
-
-
 
 
 
