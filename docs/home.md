@@ -47,6 +47,7 @@ diagnosis is removed.
 > Language of instruction: English  
 
 - Feb - June 2017: course work
+
  <details>
  <summary> &emsp; Coursework </summary>
 
@@ -58,14 +59,16 @@ diagnosis is removed.
   - The central stress network and top down self-regulation
   - Physiology and pharmacology of excitable cells
   - Degeneration and regeneration in the nervous system
+
 </details>  
 
 - July - Nov 2017: project with dissertation.
+
+ <details>
+ <summary> &emsp; Details </summary>  
+
   - dissertation title: *Neuroinflammation in peripherally helminth-infected mice: exploring mechanisms of behaviour change in 
     a chronic inflammatory model.*
- <details>
- <summary> &emsp; Components </summary>  
-  
   - Literature review
   - Development of research plan
   - Ethics application
@@ -158,14 +161,14 @@ Teaching Assistant at the **University of Cape Town [![UCT logo with link to uct
 
 ### Data science and statistics
 
-- data quality assessment
-- multi-dimensional real-world data wrangling and data modellings
-- critically deternmining test suitability and validity, and exploring more appropriate solutions
-- techniques
-  - significant exposure  
+- data quality assessment  
+- multi-dimensional real-world data wrangling and data modellings  
+- critically deternmining test suitability and validity, and exploring more appropriate solutions  
+- techniques:  
+  - significant exposure
     - wilcoxon rank-sum and signed-rank tests, chi-squared tests, t-tests, ANOVAs, MANOVAs, linear regressions
     - principal component analysis and K means clustering
-  - brief hands-on exposure 
+  - brief hands-on exposure
     - spacial data analysis
     - structural equation modelling
     - grid-search hyperparameter tuning
@@ -176,7 +179,9 @@ Teaching Assistant at the **University of Cape Town [![UCT logo with link to uct
     - LSTM RNNs
     - logistic regressions and random forest classifiers
     - agent-based modelling
-- technologies
+
+
+- Technologies
   - Python:
     - jupyter notebooks
     - numpy, pandas, scikit-learn, tensorflow, keras-tuner
@@ -185,7 +190,7 @@ Teaching Assistant at the **University of Cape Town [![UCT logo with link to uct
   - R: non-fluent, can understand and modifty R code
   - Azure Machine Learning
   - SPSS, GraphPad Prism, ImageJ, MS Excel
-  - 
+
 
 ### DataOps, DevOPs, Software enginering
 Experience and experimentation with:
@@ -214,6 +219,7 @@ Experience and experimentation with:
   - Afrikaans (fluent non-home language)  
   - French (very rusty conversational - high school)
   - Swedish (CEFR-level A2 - 2022)
+
 - scientific communication
   - conducting literature searches, summaries and reviews
   - writing ethics applications
@@ -225,6 +231,7 @@ Experience and experimentation with:
 
 ### Clinical medicine
 > predominantly 2018-2020
+
 - significant exposure
   - history taking, system-specific and general examination, assessment and management plan formulation for most common illness 
     presentations
@@ -235,6 +242,7 @@ Experience and experimentation with:
   - venepuncture, arterial blood sampling, manual blood-pressure monitoring, IM injections, IV canulation, urethral 
     catheterisation, lumbar punctures
   - advanced life support training (course work, no formal certification)
+
 - brief exposure
   - theatre assistance (including caesarean sections), tracheal intubation and ventilation, continuous and interrupted suturing
   - labour monitoring, vaginal deliveries
@@ -244,11 +252,11 @@ Experience and experimentation with:
 
 ### Wet-lab
 > predominantly 2017-2019
-- significant exposure, including debugging 
+
+- significant exposure, including debugging
   -  western blots (chemiluminescent and calorimetric)
   -  immunohistochemistry (confocal and DAB brightfield) (sectioning: cryostat, microtome)
-
-- brief hands-on exposure (2016, 2017)
+- brief hands-on exposure (2016, 2017) 
   - ELISA
   - whole-cell patch clamp electrophysiology and neuronal calcium imaging
   - optogenetics
