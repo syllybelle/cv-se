@@ -8,7 +8,7 @@ max-width: 256px; margin-left: 1em; margin-bottom: 1em" alt="Profile pic" title=
 <p style="text-align: justify">
 I am a medical researcher looking for a research/data science/clinical position in Sweden and Norway. I have extensive clinical 
 experience through a 6-year medical degree, with additional wet- and dry-lab research experience through a 1-year honours course 
-and extracurricular projects. Through a desire to learn more powerful statistical tools relevent to the complex and 
+and extracurricular projects. Through a desire to learn more powerful statistical tools relevant to the complex and 
 multidimensional nature of medicine and physiology, I have been working as a data scientist for health 
 analytics startup <a href="https://wimmy.co.za/">WIMMY (Pty) Ltd</a> . This 
 position has additionally given me exposure to the role of 
@@ -170,8 +170,8 @@ center; float: left; margin-right: 1em"> </a> Teaching Assistant at the <b>Unive
 - *Unpublished, [available on MedRχiv](https://www.medrxiv.org/content/10.1101/2021.07.21.21260910v1)* Van Belle SC, Dahlén A,
   Schiöth HB, Brooks SJ. Profiling lockdown adherence and poor coping responses towards the COVID-19 crisis in an  
   international cross-sectional survey.
-- *Conference paper* Van Belle S, Van Belle JP, & Weimann E, 2017, A South African Mhealth App for Depression Screening and
-  Management. ACIST, Cape Town, 10th – 11th July 2017. *Procedings have not been uploaded, see
+- *Conference paper* Van Belle S, Van Belle JP, & Weimann E, 2017, A South African mHealth App for Depression Screening and
+  Management. ACIST, Cape Town, 10th – 11th July 2017. *Proceedings have not been uploaded, see
   [programme](http://www.acist2017.uct.ac.za/Downloads/ACIST2017%20-%20Conference%20Programme_V4.pdf),
   [paper](https://www.researchgate.net/publication/344453865_A_South_African_Mhealth_App_for_Depression_Management_and_Treatment_a_Survey_and_Requirements_Analysis_1)
   , and
@@ -183,10 +183,10 @@ center; float: left; margin-right: 1em"> </a> Teaching Assistant at the <b>Unive
 
 - data quality assessment
 - multi-dimensional real-world data wrangling and data modellings
-- critically deternmining test suitability and validity, and exploring more appropriate solutions
+- critically determining test suitability and validity, and exploring more appropriate solutions
 - techniques:
     - significant exposure
-        - wilcoxon rank-sum and signed-rank tests, chi-squared tests, t-tests, ANOVAs, MANOVAs, linear regressions
+        - Wilcoxon rank-sum and signed-rank tests, chi-squared tests, t-tests, ANOVAs, MANOVAs, linear regressions
         - principal component analysis and K means clustering
     - brief hands-on exposure
         - spacial data analysis
@@ -211,18 +211,21 @@ center; float: left; margin-right: 1em"> </a> Teaching Assistant at the <b>Unive
     - Azure Machine Learning
     - SPSS, GraphPad Prism, ImageJ, MS Excel
 
-### DataOps, DevOPs, Software enginering
+### DataOps, DevOPs, Software engineering
 
 Experience and experimentation with:
 
 - SAAS development
-    - Python: Dash (dash.plotly) and Flask
-    - CSS, Bootstrap components
+    - Python: Dash (dash.plotly) (built on Flask)
+    - CSS, html, Bootstrap components
     - Graphana
+    - JavaScript (some experimentation with Google APIs in mid 2020)
 - Code environment, documentation and version management:
     - GitHub, Azure DevOps
     - conda
     - development of python packages
+    - assisting colleagues with local coding evironment set-up
+    - config files (yaml, json)
 - Deployment
     - Docker
     - GitHub Actions
@@ -239,7 +242,7 @@ Experience and experimentation with:
     - Dutch (Secondary home language)
     - Afrikaans (fluent non-home language)
     - French (very rusty conversational - high school)
-    - Swedish (CEFR-level A2 - 2022)
+    - Swedish (CEFR level A2 - 2022)
 
 - scientific communication
     - conducting literature searches, summaries and reviews
@@ -257,7 +260,7 @@ Experience and experimentation with:
     - history taking, system-specific and general examination, assessment and management plan formulation for most common illness
       presentations
     - accessing clinical resources and practice guidelines
-    - pharmaceutical dose calculation and adminsitration
+    - pharmaceutical dose calculation and administration
     - interpretation of common lab and imaging results
     - presenting cases and writing clinical notes, referrals and discharge summaries
     - venepuncture, arterial blood sampling, manual blood-pressure monitoring, IM injections, IV canulation, urethral
