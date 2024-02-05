@@ -1,4 +1,4 @@
-?> Last updated: 4 Feb 2023
+?> Last updated: 5 Feb 2023
 
 ?> I am eligible to work anywhere in the EU/EFTU without a visa.
 
@@ -267,16 +267,13 @@ I am highly adaptable and outcomes driven, and I enjoy working in a team to try 
         - LSTM RNNs
         - logistic regressions and random forest classifiers
         - agent-based modelling
-
 - Data engineering (Azure Databricks)
-  - Data pipelining including multiple SQL-based sources
-  - record deduplication
-  - multi-field record reconciliation
-  - database modelling
-  - sanitisation of SQL queries (Pypika)
-  - Setup of new Azure Databricks account + workspaces, including GitHub integration, crediential management for blob storage access, etc.
-
-
+    - Data pipelining including multiple SQL-based sources
+    - record deduplication
+    - multi-field record reconciliation
+    - database modelling
+    - sanitisation of SQL queries (Pypika)
+    - Setup of new Azure Databricks account + workspaces, including GitHub integration, crediential management for blob storage access, etc.
 - Technologies
     - Python:
         - jupyter notebooks
