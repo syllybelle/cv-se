@@ -1,9 +1,9 @@
-?> Last updated: 5 November 2023
+?> Last updated: 4 Feb 2023
 
 ?> I am eligible to work anywhere in the EU/EFTU without a visa.
 
 
-## Personal note
+# Personal note
 
 <IMG src="assets/profilepic.webp" style="float: right; vertical-align: middle; text-align: right; width:30%;
 max-width: 256px; margin-left: 1em; margin-bottom: 1em" alt="Profile pic" title="Sylvia Van Belle"></IMG>
@@ -14,7 +14,7 @@ max-width: 256px; margin-left: 1em; margin-bottom: 1em" alt="Profile pic" title=
 I am a medical researcher, data scientist, and data solutions developer with a clinical medical degree, postgraduate research degree and over two years' experience in data science and solutions development with a health analytics startup.
 </p>
 
-### Education  
+## Education  
 
 <p style="text-align: justify">
 I was drawn to academic research in neuroscience and neuropsychiatry before starting my university education, and considered a medical degree to be a holistic path to study neuroscience and pathophysiology in the brain. I took the opportunity offered by my university to complete a postgraduate biosciences degree between my third and fourth years of my clinical studies, where I was exposed to a range of wet-lab techniques
@@ -28,7 +28,7 @@ My dissertation project primarily focused on exploring differential protein conc
 At the University of Cape Town, the sixth and final year of a clinical medical degree is considered a 'student internship'. During this time, working in some of the most functional public sector facilities in an extremely dysfunctional health system. I realised that it would be almost impossible to effect change from inside the system, and that continuing as a clinician in that environment would lead very quickly to burnout and the loss of empathy and curiosity.
 </p>
 
-### Experience  
+## Experience  
 
 <p style="text-align: justify">
 After graduating from medical school at the end of 2020, while looking for PhD opportunities in Sweden, I worked on a research project remotely offered by Uppsala University. The work was focused on analysing survey data, and I became very aware that the statistical techniques commonly employed by the biomedical sciences are oversimplistic, outdated, and inadequate for addressing the high dimensionality and complexity of the biological systems. 
@@ -42,7 +42,7 @@ I started teaching myself more advanced dimension reduction and regression techn
 The brainchild of an epidemiologist, Wimmy has core competencies in biostatistics and infectious disease modelling. For the first 18 months, I worked primarily on exploratory data analyses, project scoping, analysis planning and assisting with the development and application of machine learning models. However, most of our clients require packaged solutions, for example, live interactive dashboards, data pipelines or electronic health record databases. Because there was a lack of existing internal expertise, I developed the necessary DevOps, CI/CD and Cloud (primarily Azure) competencies to design and implement these solutions, as well as liaise with clients' in-house technical teams. While this work is stimulating and challenging, I wish to return to more clinically relevant work in the public and academic sectors, and/or work on data infrastructure that spans across organisations, institutions and countries, in an environment of increased oversight, test-driven development, and system regulation.
 </p>
 
-### Career goals  
+## Career goals  
 
 <p style="text-align: justify">
 My ultimate career goal is to advance global health with contributions to an evidence base through the elucidation of pathophysiological pathways in complex syndromic disorders, (with a soft spot for neuropsychiatry and neuropsychoimmunology), focusing on linking biomarkers to clinical presentations.
@@ -60,18 +60,19 @@ I would love to work on any/some combination of the following:
 </p>
 
 
-### Values
+## Values
 
 <p style="text-align: justify">
 I place huge value in communal knowledge through good scientific communication with experts and non-experts alike. I feel that the translation of research from the lab to the clinical environment is also of great importance – which includes ensuring that models are reliable, rigorous, transparent and valid. 
 
 <p style="text-align: justify">
-I am highly adaptable and outcomes driven, and I enjoy working in a team to try to digest large problem spaces. I believe my experience and insights into data science, health sciences and tech development within corporate, public, and academic sectors would be an asset to the project.
+I am highly adaptable and outcomes driven, and I enjoy working in a team to try to digest large problem spaces. I believe my experience and insights into data science, health sciences and tech development within corporate, public, and academic sectors would be an asset.
 </p>
 
-## Education
+# Education
+<a href="#/certificates?id=certificates" target="_blank">See certificates here</a>
 
-### Degrees and diplomas
+## Degrees and diplomas
 
 + Degree: MBChB +
 
@@ -137,7 +138,7 @@ I am highly adaptable and outcomes driven, and I enjoy working in a team to try 
         - Physical Sciences
 
 
-### Additional educational courses  
+## Additional educational courses  
 
 + Research Project in Neuroscience +
 
@@ -183,7 +184,7 @@ I am highly adaptable and outcomes driven, and I enjoy working in a team to try 
    > Language of instruction: Swedish  
 
 
-## Experience
+# Experience
 
 + Medical Data Solutions Scientist +
     <p> <a href="https://wimmy.co.za/"><img src="assets/wimmy.webp" alt="Wimmy logo with hyperlink" style="height: 1.5em; vertical-align: center; float: left; margin-right: 1em"> </a>  <b>Wimmy (Pty) Ltd</b>  </p>
@@ -225,7 +226,8 @@ I am highly adaptable and outcomes driven, and I enjoy working in a team to try 
     - Day clinic and primary care work
     - 2-week elective in consultation-liaison psychiatry
 
-## Publications
+# Publications  
+<a href="#/outputs?id=outputs" target="_blank">See pdfs of outputs here</a>
 
 - Van Belle S, de Lange A, Tomes H, Lucas R, Naidoo V, Raimondo JV. Peripheral Taenia infection increases
   immunoglobulins in
@@ -243,9 +245,9 @@ I am highly adaptable and outcomes driven, and I enjoy working in a team to try 
   , and
   [original thesis](https://www.researchgate.net/publication/334735913_mHealth_and_eHealth_in_South_Africa)*
 
-## Skills and technologies
+# Skills and technologies
 
-### Data science and statistics
+## Data science and statistics
 
 - data quality assessment
 - multi-dimensional real-world data wrangling and data modellings
@@ -285,7 +287,7 @@ I am highly adaptable and outcomes driven, and I enjoy working in a team to try 
     - Azure Machine Learning
     - SPSS, GraphPad Prism, ImageJ, MS Excel
 
-### DataOps, DevOPs, Software engineering
+## DataOps, DevOPs, Software engineering
 
 Experience and experimentation with:
 
@@ -309,7 +311,7 @@ Experience and experimentation with:
 - Data flow pipelines
     - Azure MySQL servers, Azure Data Factory
 
-### Communication
+## Communication
 
 - languages
     - English (Primary home language)
@@ -327,7 +329,7 @@ Experience and experimentation with:
     - lecturing and responding to student questions
     - hosting scientific talks with guest speakers
 
-### Clinical medicine
+## Clinical medicine
 
 > predominantly 2018-2020
 
@@ -352,7 +354,7 @@ Experience and experimentation with:
     - active resuscitation (DKA, hyperkalaemia, submassive pulmonary embolus, severe hypothyroidism)
     - dislocation reduction, ophthalmoscopy and other speciality-specific techniques.
 
-### Wet-lab
+## Wet-lab
 
 > predominantly 2017-2019
 
@@ -373,7 +375,7 @@ Experience and experimentation with:
     - analysing rodent behaviour
     - stereology
 
-## References
+# References
 
 <p style="text-align: justify">
  <a href="https://za.linkedin.com/in/sylvia-van-belle?trk=profile-badge">Connect on LinkedIn</a> to request references or  get in touch
