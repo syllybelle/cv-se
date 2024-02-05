@@ -87,7 +87,7 @@ ul.accordion-wrapper > li {
 }
 
 ul.accordion-wrapper > li:hover {
-  background: whitesmoke;
+  background: var(--mono-tint3);
 
 }
 

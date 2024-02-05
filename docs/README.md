@@ -1,6 +1,9 @@
-!> Last updated: 5 November 2023
+?> Last updated: 5 Feb 2023
 
-## Personal note
+?> I am eligible to work anywhere in the EU/EFTU without a visa.
+
+
+# Personal note
 
 <IMG src="assets/profilepic.webp" style="float: right; vertical-align: middle; text-align: right; width:30%;
 max-width: 256px; margin-left: 1em; margin-bottom: 1em" alt="Profile pic" title="Sylvia Van Belle"></IMG>
@@ -8,28 +11,68 @@ max-width: 256px; margin-left: 1em; margin-bottom: 1em" alt="Profile pic" title=
 
 
 <p style="text-align: justify">
-I believe my insights into data science, health sciences and tech development with experience in industry, public and academic sectors can be an asset to research projects or health data initiatives. I am interested in positions involving designing, implementing and analysing data-centric research projects, analysing and deriving insights from existing data, developing or maintaining databases and data systems or designing and developing new data tools for data consumers.
+I am a medical researcher, data scientist, and data solutions developer with a clinical medical degree, postgraduate research degree and over two years' experience in data science and solutions development with a health analytics startup.
+</p>
+
+## Education  
+
+<p style="text-align: justify">
+I was drawn to academic research in neuroscience and neuropsychiatry before starting my university education, and considered a medical degree to be a holistic path to study neuroscience and pathophysiology in the brain. I took the opportunity offered by my university to complete a postgraduate biosciences degree between my third and fourth years of my clinical studies, where I was exposed to a range of wet-lab techniques
 </p>
 
 <p style="text-align: justify">
-My overarching career goal is to advance global health with contributions to an evidence base in the form of methodology/infrastructure development and/or elucidation of pathophysiological pathways (preferably in neuropsychiatry).
+My dissertation project primarily focused on exploring differential protein concentrations in mouse hippocampi using western blots and immunohistochemistry (brightfield and confocal), among other techniques, to describe inflammation, neurogenesis and blood-brain-barrier permeability. I continued with the project during my remaining years at medical school to develop a paper based on this work.
 </p>
 
 <p style="text-align: justify">
-My ideal research would focus on studying biomarkers/response to treatment in undifferentiated psychiatric presentations. My hypothesis is that pathophysiological and pharmacological management research to date has been confounded by syndromic cohorts by hiding shared mechanisms across diagnoses, or conflates divergent mechanisms within a single diagnosis. 
+At the University of Cape Town, the sixth and final year of a clinical medical degree is considered a 'student internship'. During this time, working in some of the most functional public sector facilities in an extremely dysfunctional health system. I realised that it would be almost impossible to effect change from inside the system, and that continuing as a clinician in that environment would lead very quickly to burnout and the loss of empathy and curiosity.
+</p>
+
+## Experience  
+
+<p style="text-align: justify">
+After graduating from medical school at the end of 2020, while looking for PhD opportunities in Sweden, I worked on a research project remotely offered by Uppsala University. The work was focused on analysing survey data, and I became very aware that the statistical techniques commonly employed by the biomedical sciences are oversimplistic, outdated, and inadequate for addressing the high dimensionality and complexity of the biological systems. 
 </p>
 
 <p style="text-align: justify">
-I place huge value in scientific communication with non-experts and teamwork, academic/research integrity and scalable/reliable development through implementation of best-practices and controls.
+I started teaching myself more advanced dimension reduction and regression techniques, and shifted to working with python libraries for analysis and visualisation. I was interested in building my data science skills, and therefore accepted a position at Wimmy (Pty) Ltd, a health analytics startup that I have worked at for the last two years.
 </p>
 
 <p style="text-align: justify">
-I am eligible to work in the EU/EFTU without a visa.
+The brainchild of an epidemiologist, Wimmy has core competencies in biostatistics and infectious disease modelling. For the first 18 months, I worked primarily on exploratory data analyses, project scoping, analysis planning and assisting with the development and application of machine learning models. However, most of our clients require packaged solutions, for example, live interactive dashboards, data pipelines or electronic health record databases. Because there was a lack of existing internal expertise, I developed the necessary DevOps, CI/CD and Cloud (primarily Azure) competencies to design and implement these solutions, as well as liaise with clients' in-house technical teams. While this work is stimulating and challenging, I wish to return to more clinically relevant work in the public and academic sectors, and/or work on data infrastructure that spans across organisations, institutions and countries, in an environment of increased oversight, test-driven development, and system regulation.
 </p>
 
-## Education
+## Career goals  
 
-### Degrees and diplomas
+<p style="text-align: justify">
+My ultimate career goal is to advance global health with contributions to an evidence base through the elucidation of pathophysiological pathways in complex syndromic disorders, (with a soft spot for neuropsychiatry and neuropsychoimmunology), focusing on linking biomarkers to clinical presentations.
+</p>
+
+<p style="text-align: justify">
+I feel that large datasets of diverse patient cohorts combined with ML/DL techniques can lead to new insights by minimising selection bias introduced through syndromic patient classifications
+</p>
+
+<p style="text-align: justify">
+I would love to work on any/some combination of the following:  
+- the research, analytics and modelling itself (including how to select and adapt relevant models for the additional reliability and clarity required in the health care setting),  
+- the development and maintenance of reliable research data infrastructure/biobanking, data engineering and data provisioning  
+- higher-level project scoping for data needs and output formats required by researchers and clinicians  
+</p>
+
+
+## Values
+
+<p style="text-align: justify">
+I place huge value in communal knowledge through good scientific communication with experts and non-experts alike. I feel that the translation of research from the lab to the clinical environment is also of great importance – which includes ensuring that models are reliable, rigorous, transparent and valid. 
+
+<p style="text-align: justify">
+I am highly adaptable and outcomes driven, and I enjoy working in a team to try to digest large problem spaces. I believe my experience and insights into data science, health sciences and tech development within corporate, public, and academic sectors would be an asset.
+</p>
+
+# Education
+<a href="#/certificates?id=certificates" target="_blank">See certificates here</a>
+
+## Degrees and diplomas
 
 + Degree: MBChB +
 
@@ -54,8 +97,8 @@ I am eligible to work in the EU/EFTU without a visa.
 
 + Degree: BMedSci (Hons) (Phys) +
 
-  > University of Cape Town (2017)  - Awarded in the first class
-  > Specialising in physiology and neuroscience    
+  > University of Cape Town (2017) - Awarded in the first class  
+  > Specialising in physiology and neuroscience  
   > Language of instruction: English
 
     - Feb - June 2017: course work
@@ -75,7 +118,7 @@ I am eligible to work in the EU/EFTU without a visa.
         - Literature review
         - Development of research plan
         - Ethics application
-        - Experimentation: western blotting and immunohistochemistry
+        - Experimentation: western blots (calorimetric and chemiluminescent), immunohistochemistry (confocoal and DAB bright-field), Evans Blue BBB permeability assay. 
         - Dissertation write-up
         - Presentation
 
@@ -84,7 +127,7 @@ I am eligible to work in the EU/EFTU without a visa.
   > Fish Hoek High School (2013)  
   > Language of instruction: English
 
-    - Subjects </summary>
+    - Subjects 
         - English Home Language
         - Afrikaans Home Language
         - French Second additional language
@@ -95,62 +138,75 @@ I am eligible to work in the EU/EFTU without a visa.
         - Physical Sciences
 
 
-### Additional educational courses
+## Additional educational courses  
 
 + Research Project in Neuroscience +
 
-    > 18 Jan - 6 June 2021 
-    > Language of submission: English
-    > Uppsala University (remote)
-    > Course code 3NR230
-    > 30 ECTS credits
+  > Uppsala University (remote)    
+  > Course code 3NR230 
+  > 18 Jan - 6 June 2021  
+  > 30 ECTS credits 
+  > Language of submission: English  
 
+    - Feb - June 2017: course work
     - Dissertation title: *Profiling lockdown adherence and poor coping responses towards the COVID-19 crisis in an
-      international
-      cross-sectional servey*
+      international cross-sectional servey*
     - Main subject / occupational skills covered :
-       - Analysing survey response data
-       - Wilcoxon rank-sum and signed-rank tests, chi-squared tests, t-tests, ANOVAs, MANOVAs, linear regressions
-       - principal component analysis and K means clusterin
+        - Analysing survey response data
+        - Wilcoxon rank-sum and signed-rank tests, chi-squared tests, t-tests, ANOVAs, MANOVAs, linear regressions
+        - principal component analysis and K means clustering 
 
 + Mathematics for Machine Learning: Linear Algebra +
-  > [Coursera Course](https://www.coursera.org/learn/linear-algebra-machine-learning)
-  > October 2021
+
+  > [Coursera Course](https://www.coursera.org/learn/linear-algebra-machine-learning)  
+  > October 2021  
   > Offered by Imperial College London
-  
-  - 5-week course. Covered linear algebra, matrix transformations, eigenvalues and eigenvectors
+
+    - 5-week course. Covered linear algebra, matrix transformations, eigenvalues and eigenvectors
+
 
 + Techniques in Neuroscience +
-    > The International Brain Research Organization (IBRO)-UCT African Advanced School on Techniques in Neuroscience
-    > 2-18 December 2017
-    > Language of instruction: English
+  > The International Brain Research Organization (IBRO)-UCT African Advanced School on Techniques in Neuroscience  
+  > 2-18 December 2017  
+  > Language of instruction: English
 
-+ Swedish A2 Distance Live + 
-    > [Folkuniversitetet](https://www.folkuniversitetet.se/)
-    > Sept - Dec 2022 
+    - EEG demonstrations/neurosurgery & epilepsy lectures at Red Cross Children's Hospital
+    - analysing rodent behaviour
+    - immunohistochemistry practical
+    - stereology lectures
+    - optogenetics and calcium imaging exposure. Whole-cell patch clamping and interface chamber practicals.
+    - electrophysiology prac: [Backyard Brains SpikerBox](https://backyardbrains.com/products/spikerbox)
+    - Poster presentations
 
 
-## Experience
++ Swedish A2 Distance Live +
+   > [Folkuniversitetet](https://www.folkuniversitetet.se/)  
+   > Language of instruction: Swedish  
+
+
+# Experience
 
 + Medical Data Solutions Scientist +
     <p> <a href="https://wimmy.co.za/"><img src="assets/wimmy.webp" alt="Wimmy logo with hyperlink" style="height: 1.5em; vertical-align: center; float: left; margin-right: 1em"> </a>  <b>Wimmy (Pty) Ltd</b>  </p>
 
-    > May 2023 – Present
+  > May 2023 – December 2023
     - Working with medical specialists and the health product owner to translate the client needs into a scoped plan of analysis, identifying key health-related project outcomes.
     - Scoping and prototyping development of full-stack solutions for live client-facing dashboards
     - Providing the client with technical roadmaps and updates, scope realignment, communication of dependencies and dependency resolution with client technical teams.
-    - Adapting extract-load-transform processes and cloud infrastructure to handle diverse client data sources and output requirements
+    - Working primarily with Azure Databricks, adapting extract-load-transform processes and cloud infrastructure to handle diverse client data sources and output requirements
 
 + Data Scientist +
     <p> <a href="https://wimmy.co.za/"><img src="assets/wimmy.webp" alt="Wimmy logo with hyperlink" style="height: 1.5em; vertical-align: center; float: left; margin-right: 1em"> </a>  <b>Wimmy (Pty) Ltd</b>  </p>
 
   > January 2022 - April 2023
   > Oct - Dec 2021: Intern
-  - Conducting literature searches and reviews of medical and statistical knowledge bases
-  - Initial data wrangling and exploratory data analyses
-  - Assisting in ML model development and deployment
-  - Critically evaluating analysis outputs and developing visualisations and graphs, presentations and written reports to convey clear, intelligible insights and action points for the client
-  - Working with longitudinal health data
+    - Conducting literature searches and reviews of medical and statistical knowledge bases
+    - Initial data wrangling and exploratory data analyses
+    - Assisting in ML model development and deployment (e.g. LSTM RNNs), including critical analysis of model choice and liaising between data and health professionals
+    - development of demo dashboards
+    - Critically evaluating analysis outputs and developing visualisations and graphs, presentations and written reports to convey clear. intelligible insights and action points for the client
+    - Working with longitudinal health data
+
 
 + Teaching assistant +
     <p> <a href="https://uct.ac.za"><img src="assets/UCT.svg" alt="UCT logo with hyperlink" style="height: 2em; vertical-align: center; float: left; margin-right: 1em"> </a> <b>University of Cape Town </b> </p>
@@ -170,7 +226,8 @@ I am eligible to work in the EU/EFTU without a visa.
     - Day clinic and primary care work
     - 2-week elective in consultation-liaison psychiatry
 
-## Publications
+# Publications  
+<a href="#/outputs?id=outputs" target="_blank">See pdfs of outputs here</a>
 
 - Van Belle S, de Lange A, Tomes H, Lucas R, Naidoo V, Raimondo JV. Peripheral Taenia infection increases
   immunoglobulins in
@@ -188,9 +245,9 @@ I am eligible to work in the EU/EFTU without a visa.
   , and
   [original thesis](https://www.researchgate.net/publication/334735913_mHealth_and_eHealth_in_South_Africa)*
 
-## Skills and technologies
+# Skills and technologies
 
-### Data science and statistics
+## Data science and statistics
 
 - data quality assessment
 - multi-dimensional real-world data wrangling and data modellings
@@ -210,16 +267,13 @@ I am eligible to work in the EU/EFTU without a visa.
         - LSTM RNNs
         - logistic regressions and random forest classifiers
         - agent-based modelling
-
 - Data engineering (Azure Databricks)
-  - Data pipelining including multiple SQL-based sources
-  - record deduplication
-  - multi-field record reconciliation
-  - database modelling
-  - sanitisation of SQL queries (Pypika)
-  - Setup of new Azure Databricks account + workspaces, including GitHub integration, crediential management for blob storage access, etc.
-
-
+    - Data pipelining including multiple SQL-based sources
+    - record deduplication
+    - multi-field record reconciliation
+    - database modelling
+    - sanitisation of SQL queries (Pypika)
+    - Setup of new Azure Databricks account + workspaces, including GitHub integration, crediential management for blob storage access, etc.
 - Technologies
     - Python:
         - jupyter notebooks
@@ -230,7 +284,7 @@ I am eligible to work in the EU/EFTU without a visa.
     - Azure Machine Learning
     - SPSS, GraphPad Prism, ImageJ, MS Excel
 
-### DataOps, DevOPs, Software engineering
+## DataOps, DevOPs, Software engineering
 
 Experience and experimentation with:
 
@@ -249,12 +303,19 @@ Experience and experimentation with:
     - Docker
     - GitHub Actions
     - ghcr.io
-    - Azure container registeries
+    - Azure container registries
     - Azure container apps
 - Data flow pipelines
-    - Azure MySQL servers, Azure Data Factory
+    - Azure Databricks, Azure Databricks
+    - PySpark, Spark SQL, 
+    - Data sources: API integrations, Azure MySQL servers, on-prem MySQL and MSSQL servers, .sql datadump files.
+    - Data change management
+    - Incremental ingestion
+    - Data reconciliation
+    - Source code management and CICD
+    - Data governance principal implementation
 
-### Communication
+## Communication
 
 - languages
     - English (Primary home language)
@@ -272,7 +333,7 @@ Experience and experimentation with:
     - lecturing and responding to student questions
     - hosting scientific talks with guest speakers
 
-### Clinical medicine
+## Clinical medicine
 
 > predominantly 2018-2020
 
@@ -297,7 +358,7 @@ Experience and experimentation with:
     - active resuscitation (DKA, hyperkalaemia, submassive pulmonary embolus, severe hypothyroidism)
     - dislocation reduction, ophthalmoscopy and other speciality-specific techniques.
 
-### Wet-lab
+## Wet-lab
 
 > predominantly 2017-2019
 
@@ -318,7 +379,7 @@ Experience and experimentation with:
     - analysing rodent behaviour
     - stereology
 
-## References
+# References
 
 <p style="text-align: justify">
  <a href="https://za.linkedin.com/in/sylvia-van-belle?trk=profile-badge">Connect on LinkedIn</a> to request references or  get in touch
