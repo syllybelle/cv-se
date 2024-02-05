@@ -193,7 +193,7 @@ I am highly adaptable and outcomes driven, and I enjoy working in a team to try 
     - Working with medical specialists and the health product owner to translate the client needs into a scoped plan of analysis, identifying key health-related project outcomes.
     - Scoping and prototyping development of full-stack solutions for live client-facing dashboards
     - Providing the client with technical roadmaps and updates, scope realignment, communication of dependencies and dependency resolution with client technical teams.
-    - Adapting extract-load-transform processes and cloud infrastructure to handle diverse client data sources and output requirements
+    - Working primarily with Azure Databricks, adapting extract-load-transform processes and cloud infrastructure to handle diverse client data sources and output requirements
 
 + Data Scientist +
     <p> <a href="https://wimmy.co.za/"><img src="assets/wimmy.webp" alt="Wimmy logo with hyperlink" style="height: 1.5em; vertical-align: center; float: left; margin-right: 1em"> </a>  <b>Wimmy (Pty) Ltd</b>  </p>
@@ -306,10 +306,17 @@ Experience and experimentation with:
     - Docker
     - GitHub Actions
     - ghcr.io
-    - Azure container registeries
+    - Azure container registries
     - Azure container apps
 - Data flow pipelines
-    - Azure MySQL servers, Azure Data Factory
+    - Azure Databricks, Azure Databricks
+    - PySpark, Spark SQL, 
+    - Data sources: API integrations, Azure MySQL servers, on-prem MySQL and MSSQL servers, .sql datadump files.
+    - Data change management
+    - Incremental ingestion
+    - Data reconciliation
+    - Source code management and CICD
+    - Data governance principal implementation
 
 ## Communication
 
