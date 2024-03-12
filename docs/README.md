@@ -195,7 +195,7 @@ The brainchild of an epidemiologist, Wimmy has core competencies in biostatistic
     - Day clinic and primary care work
     - 2-week elective in consultation-liaison psychiatry
 
-## Career goals  
+# Career goals  
 
 <p style="text-align: justify">
 My ultimate career goal is to advance global health with contributions to an evidence base through the elucidation of pathophysiological pathways in complex syndromic disorders, (with a soft spot for neuropsychiatry and neuropsychoimmunology), focusing on linking biomarkers to clinical presentations.
@@ -213,7 +213,7 @@ I would love to work on any/some combination of the following:
 </p>
 
 
-## Values
+# Values
 
 <p style="text-align: justify">
 I place huge value in communal knowledge through good scientific communication with experts and non-experts alike. I feel that the translation of research from the lab to the clinical environment is also of great importance – which includes ensuring that models are reliable, rigorous, transparent and valid. 
@@ -221,7 +221,6 @@ I place huge value in communal knowledge through good scientific communication w
 <p style="text-align: justify">
 I am highly adaptable and outcomes driven, and I enjoy working in a team to try to digest large problem spaces. I believe my experience and insights into data science, health sciences and tech development within corporate, public, and academic sectors would be an asset.
 </p>
-
 
 
 # Publications  
