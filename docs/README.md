@@ -2,6 +2,7 @@
 
 ?> I am eligible to work anywhere in the EU/EFTU without a visa.
 
+!> If you are using specific browsers on specific android or macos devices, you may be experiencing some CSS rendering issues. It was brought to my attention today and I'm currently working on a fix. It shouldn't look like the 90s, I promise. Working on a fix now (SVB 24/03/25).
 
 # Personal note
 
