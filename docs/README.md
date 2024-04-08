@@ -1,6 +1,6 @@
-?> Last updated: 5 Feb 2023
+?> Last updated: 8 April 2023
 
-?> I am eligible to work anywhere in the EU/EFTU without a visa.
+?> I will be based in Uppsala, Sweden, from mid-June 2024, but can work remotely immediately. I am eligble to work in EU/EFTA regions without a visa.
 
 
 # Personal note
@@ -9,9 +9,8 @@
 max-width: 256px; margin-left: 1em; margin-bottom: 1em" alt="Profile pic" title="Sylvia Van Belle"></IMG>
 
 
-
 <p style="text-align: justify">
-I am a medical researcher, data scientist, and data solutions developer with a clinical medical degree, postgraduate research degree and over two years' experience in data science and solutions development with a health analytics startup.
+I am a medical researcher, data scientist, and data solutions developer with a clinical medical degree, postgraduate research degree and over two years' experience in data science and solutions development with a health analytics startup, looking for work in research, clinical data management or health data solutions development in Sweden or remotely.
 </p>
 
 ## Education  
