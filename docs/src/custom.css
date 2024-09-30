@@ -70,17 +70,22 @@ root {--content-max-width: 100em;}
 }
 
 
-.sidebar> h1 > * > img {
-    max-width: 50%;
-    color: var(--base-color);
-    filter: drop-shadow(2px 4px 6px black);
-}
+/*.sidebar> h1 > * > img {*/
+/*    max-width: 50%;*/
+/*    color: var(--base-color);*/
+/*    filter: drop-shadow(2px 4px 6px black);*/
+/*}*/
 
 .column {
   float: left;
-  width: 33.33%;
-  padding: 5px;
+  width: 33%;
+  padding: 3px;
+  column-fill: balance
 }
+
+/*.column > a {*/
+/*  width: 50%;*/
+/*}*/
 
 /*.row:after {*/
 /*  content: "";*/

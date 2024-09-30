@@ -1,6 +1,7 @@
 <!-- _sidebar.md -->
+
 <div style="box-sizing: inherit; vertical-align: center">
-<h1 class="app-name"><a style="box-sizing: inherit; color: var(--sidebar-nav-link-color--active); margin-right: 0" class="app-name-link" data-nosearch="" href="https://syllybelle.github.io/cv/"> Sylvia Van Belle </a></h1>
+<h1 class="app-name"><a style="max-width: 50%; color: var(--base-color); filter: drop-shadow(2px 4px 6px black); margin-left: auto; margin-right: auto" class="app-name-link" data-nosearch="" href="https://syllybelle.github.io/cv/"><img alt="Sylvia Van Belle" src="./assets/logo.svg"></a></h1>
 </div>
 
 
