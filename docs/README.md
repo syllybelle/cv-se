@@ -1,7 +1,8 @@
-?> Last updated: 1 October 2024
+?> I am currently based in Uppsala and am willing to commute and/or relocate. 
 
-?> I am currently based in Uppsala and am willing to commute and/or relocate. I am eligible to work in EU/EFTA regions without additional permits.
-
+?> Current Swedish proficiency: completed [SFI C](https://www.uppsala.se/skola-och-forskola/vuxenutbildning/svenska-for-invandrare-sfi/), now beginning SFI D (October '24)  
+  
+?> I am eligible to work in EU/EFTA regions without additional permits.  
 
 # Personal note
 

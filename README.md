@@ -10,3 +10,7 @@ JS Plugins:
 - docsify-accordion
 - google analytics (currently disabled)
 
+# Roadmap:
+- add Swedish version
+- go through the text properly
+

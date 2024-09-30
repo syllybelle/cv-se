@@ -1,6 +1,8 @@
 <!-- _sidebar.md -->
-<div style="text-align: center; vertical-align: center">
+<div style="box-sizing: inherit; vertical-align: center">
+<h1 class="app-name"><a style="box-sizing: inherit; color: var(--sidebar-nav-link-color--active); margin-right: 0" class="app-name-link" data-nosearch="" href="https://syllybelle.github.io/cv/"> Sylvia Van Belle </a></h1>
 </div>
+
 
 > <hr/>
 * [Curriculum Vitae](/)

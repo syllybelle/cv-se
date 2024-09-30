@@ -55,7 +55,6 @@
 root {--content-max-width: 100em;}
 
 .sidebar-nav, .sidebar nav {
-
     margin: 0;
 }
 
@@ -63,9 +62,11 @@ root {--content-max-width: 100em;}
     margin-top: 0;
 }
 
-.sidebar> h1 .app-name-link {
-    color: var(--sidebar-name-color);
-    justify-content: center;
+.app-name-link {
+    color: var(--sidebar-nav-link-color--active);
+    font-size: var(--sidebar-name-font-size);
+    font-weight: var(--sidebar-name-font-weight);
+    text-align: var(--sidebar-name-text-align);
 }
 
 
