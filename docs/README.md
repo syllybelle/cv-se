@@ -30,7 +30,7 @@ At the University of Cape Town, the sixth and final year of a clinical medical d
 
 ### Degrees and diplomas
 
-<a href="#/certificates?id=certificates" target="_blank">See certificates here</a>
+<a class="button-secondary-rounded" href="#/certificates?id=certificates" target="_blank"><span class="material-symbols-outlined">picture_as_pdf</span> Certificates </a>
 
 + Degree: MBChB +
 
@@ -227,7 +227,7 @@ I am highly adaptable and outcomes driven, and I enjoy working in a team to try 
 
 
 # Publications  
-<a href="#/outputs?id=outputs" target="_blank">See pdfs of outputs here</a>
+<a class="button-secondary-rounded" href="#/outputs?id=outputs" target="_blank"><span class="material-symbols-outlined">picture_as_pdf</span> Outputs </a>
 
 - Van Belle S, de Lange A, Tomes H, Lucas R, Naidoo V, Raimondo JV. Peripheral Taenia infection increases
   immunoglobulins in
@@ -239,11 +239,8 @@ I am highly adaptable and outcomes driven, and I enjoy working in a team to try 
   international cross-sectional survey.
 - *Conference paper* Van Belle S, Van Belle JP, & Weimann E, 2017, A South African mHealth App for Depression Screening
   and
-  Management. ACIST, Cape Town, 10th – 11th July 2017. *Proceedings have not been uploaded, see
-  [programme](http://www.acist2017.uct.ac.za/Downloads/ACIST2017%20-%20Conference%20Programme_V4.pdf),
-  [paper](https://www.researchgate.net/publication/344453865_A_South_African_Mhealth_App_for_Depression_Management_and_Treatment_a_Survey_and_Requirements_Analysis_1)
-  , and
-  [original thesis](https://www.researchgate.net/publication/334735913_mHealth_and_eHealth_in_South_Africa)*
+  Management. ACIST, Cape Town, 10th – 11th July 2017. *See 
+  [programme, paper, and original thesis](./outputs?id=outputs?id=mhealth-project-2015-2017)*
 
 # Skills and technologies
 

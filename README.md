@@ -8,5 +8,5 @@ JS Plugins:
 - katex 
 - linkedin profile badge
 - docsify-accordion
-- google analytics
+- google analytics (currently disabled)
 
