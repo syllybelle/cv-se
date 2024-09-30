@@ -54,16 +54,39 @@
 }
 root {--content-max-width: 100em;}
 
+.sidebar-nav, .sidebar nav {
+
+    margin: 0;
+}
+
+.sidebar {
+    margin-top: 0;
+}
+
 .sidebar> h1 .app-name-link {
     color: var(--sidebar-name-color);
     justify-content: center;
 }
+
 
 .sidebar> h1 > * > img {
     max-width: 50%;
     color: var(--base-color);
     filter: drop-shadow(2px 4px 6px black);
 }
+
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+/*.row:after {*/
+/*  content: "";*/
+/*  display: table;*/
+/*  clear: both;*/
+/*}*/
+
 
 .linked-in-container > *  {width: 258px;
     justify-content: center;
@@ -79,7 +102,7 @@ root {--content-max-width: 100em;}
 .markdown-section a.button-secondary-rounded {
     cursor: pointer;
     color: var(--mono-shade3);
-    text-decoration: none !important!
+    text-decoration: none !important;
     font-weight: bold;
 }
 
