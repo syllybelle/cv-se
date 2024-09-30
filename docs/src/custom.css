@@ -52,6 +52,42 @@
     --sidebar-nav-pagelink-background: no-repeat 2px calc(50% - 2.5px) / 6px 5px linear-gradient(45deg, transparent 2.75px, var(--mono-tint2) 2.75px 4.25px, transparent 4px), no-repeat 2px calc(50% + 2.5px) / 6px 5px linear-gradient(135deg, transparent 2.75px, var(--mono-tint2) 2.75px 4.25px, transparent 4px);
     --sidebar-nav-pagelink-background--loaded: no-repeat 0px center / 5px 6px linear-gradient(225deg, transparent 2.75px, var(--mono-tint2) 2.75px 4.25px, transparent 4.25px), no-repeat 5px center / 5px 6px linear-gradient(135deg, transparent 2.75px, var(--mono-tint2) 2.75px 4.25px, transparent 4.25px);
 }
+root {--content-max-width: 100em;}
+
+.sidebar-nav, .sidebar nav {
+    margin: 0;
+}
+
+.sidebar {
+    margin-top: 0;
+}
+
+.app-name-link {
+    color: var(--sidebar-nav-link-color--active);
+    font-size: var(--sidebar-name-font-size);
+    font-weight: var(--sidebar-name-font-weight);
+    text-align: var(--sidebar-name-text-align);
+}
+
+
+.sidebar> h1 > * > img {
+    max-width: 50%;
+    color: var(--base-color);
+    filter: drop-shadow(2px 4px 6px black);
+}
+
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+/*.row:after {*/
+/*  content: "";*/
+/*  display: table;*/
+/*  clear: both;*/
+/*}*/
+
 
 .linked-in-container > *  {width: 258px;
     justify-content: center;
@@ -62,7 +98,41 @@
 }
 
 .linked-in-container > * > iframe {border: none}
-root {--content-max-width: 100em;}
+
+
+.markdown-section a.button-secondary-rounded {
+    cursor: pointer;
+    color: var(--mono-shade3);
+    text-decoration: none !important;
+    font-weight: bold;
+}
+
+.markdown-section .button-secondary-rounded {
+    cursor: pointer;
+    color: var(--mono-shade3);
+    height: auto;
+    display: inline-block;
+    padding: 10px min(20px, 5%) 10px min(20px, 5%);
+    font-family: -apple-system, "Segoe UI", "Helvetica Neue", sans-serif;
+    line-height: 1.2rem;
+    background-color: var(--mono-tint3);
+    text-decoration: none;
+    border: 1px solid var(--selection-color) !important;
+    font-weight: bold;
+    border-radius: 1.4rem;
+
+  vertical-align: middle;
+}
+
+
+.material-symbols-outlined {
+  vertical-align: middle;
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 24
+}
 
 /*<IMG src="assets/profilepic.webp" style="float: right; vertical-align: middle; text-align: right; width:30%;*/
 /*max-width: 256px; margin-left: 1em; margin-bottom: 1em" alt="Profile pic" title="Sylvia Van Belle"></IMG>*/
