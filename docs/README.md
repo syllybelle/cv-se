@@ -1,6 +1,6 @@
-?> Last updated: 8 April 2023
+?> Last updated: 1 October 2024
 
-?> I will be based in Uppsala, Sweden, from mid-June 2024, but can work remotely immediately. I am eligble to work in EU/EFTA regions without a visa.
+?> I am currently based in Uppsala and am willing to commute and/or relocate. I am eligible to work in EU/EFTA regions without additional permits.
 
 
 # Personal note
@@ -27,51 +27,10 @@ My dissertation project primarily focused on exploring differential protein conc
 At the University of Cape Town, the sixth and final year of a clinical medical degree is considered a 'student internship'. During this time, working in some of the most functional public sector facilities in an extremely dysfunctional health system. I realised that it would be almost impossible to effect change from inside the system, and that continuing as a clinician in that environment would lead very quickly to burnout and the loss of empathy and curiosity.
 </p>
 
-## Experience  
 
-<p style="text-align: justify">
-After graduating from medical school at the end of 2020, while looking for PhD opportunities in Sweden, I worked on a research project remotely offered by Uppsala University. The work was focused on analysing survey data, and I became very aware that the statistical techniques commonly employed by the biomedical sciences are oversimplistic, outdated, and inadequate for addressing the high dimensionality and complexity of the biological systems. 
-</p>
+### Degrees and diplomas
 
-<p style="text-align: justify">
-I started teaching myself more advanced dimension reduction and regression techniques, and shifted to working with python libraries for analysis and visualisation. I was interested in building my data science skills, and therefore accepted a position at Wimmy (Pty) Ltd, a health analytics startup that I have worked at for the last two years.
-</p>
-
-<p style="text-align: justify">
-The brainchild of an epidemiologist, Wimmy has core competencies in biostatistics and infectious disease modelling. For the first 18 months, I worked primarily on exploratory data analyses, project scoping, analysis planning and assisting with the development and application of machine learning models. However, most of our clients require packaged solutions, for example, live interactive dashboards, data pipelines or electronic health record databases. Because there was a lack of existing internal expertise, I developed the necessary DevOps, CI/CD and Cloud (primarily Azure) competencies to design and implement these solutions, as well as liaise with clients' in-house technical teams. While this work is stimulating and challenging, I wish to return to more clinically relevant work in the public and academic sectors, and/or work on data infrastructure that spans across organisations, institutions and countries, in an environment of increased oversight, test-driven development, and system regulation.
-</p>
-
-## Career goals  
-
-<p style="text-align: justify">
-My ultimate career goal is to advance global health with contributions to an evidence base through the elucidation of pathophysiological pathways in complex syndromic disorders, (with a soft spot for neuropsychiatry and neuropsychoimmunology), focusing on linking biomarkers to clinical presentations.
-</p>
-
-<p style="text-align: justify">
-I feel that large datasets of diverse patient cohorts combined with ML/DL techniques can lead to new insights by minimising selection bias introduced through syndromic patient classifications
-</p>
-
-<p style="text-align: justify">
-I would love to work on any/some combination of the following:  
-- the research, analytics and modelling itself (including how to select and adapt relevant models for the additional reliability and clarity required in the health care setting),  
-- the development and maintenance of reliable research data infrastructure/biobanking, data engineering and data provisioning  
-- higher-level project scoping for data needs and output formats required by researchers and clinicians  
-</p>
-
-
-## Values
-
-<p style="text-align: justify">
-I place huge value in communal knowledge through good scientific communication with experts and non-experts alike. I feel that the translation of research from the lab to the clinical environment is also of great importance – which includes ensuring that models are reliable, rigorous, transparent and valid. 
-
-<p style="text-align: justify">
-I am highly adaptable and outcomes driven, and I enjoy working in a team to try to digest large problem spaces. I believe my experience and insights into data science, health sciences and tech development within corporate, public, and academic sectors would be an asset.
-</p>
-
-# Education
 <a href="#/certificates?id=certificates" target="_blank">See certificates here</a>
-
-## Degrees and diplomas
 
 + Degree: MBChB +
 
@@ -137,7 +96,7 @@ I am highly adaptable and outcomes driven, and I enjoy working in a team to try 
         - Physical Sciences
 
 
-## Additional educational courses  
+### Additional educational courses  
 
 + Research Project in Neuroscience +
 
@@ -183,7 +142,21 @@ I am highly adaptable and outcomes driven, and I enjoy working in a team to try 
    > Language of instruction: Swedish  
 
 
-# Experience
+
+## Experience  
+
+<p style="text-align: justify">
+After graduating from medical school at the end of 2020, while looking for PhD opportunities in Sweden, I worked on a research project remotely offered by Uppsala University. The work was focused on analysing survey data, and I became very aware that the statistical techniques commonly employed by the biomedical sciences are oversimplistic, outdated, and inadequate for addressing the high dimensionality and complexity of the biological systems. 
+</p>
+
+<p style="text-align: justify">
+I started teaching myself more advanced dimension reduction and regression techniques, and shifted to working with python libraries for analysis and visualisation. I was interested in building my data science skills, and therefore accepted a position at Wimmy (Pty) Ltd, a health analytics startup that I have worked at for the last two years.
+</p>
+
+<p style="text-align: justify">
+The brainchild of an epidemiologist, Wimmy has core competencies in biostatistics and infectious disease modelling. For the first 18 months, I worked primarily on exploratory data analyses, project scoping, analysis planning and assisting with the development and application of machine learning models. However, most of our clients require packaged solutions, for example, live interactive dashboards, data pipelines or electronic health record databases. Because there was a lack of existing internal expertise, I developed the necessary DevOps, CI/CD and Cloud (primarily Azure) competencies to design and implement these solutions, as well as liaise with clients' in-house technical teams. While this work is stimulating and challenging, I wish to return to more clinically relevant work in the public and academic sectors, and/or work on data infrastructure that spans across organisations, institutions and countries, in an environment of increased oversight, test-driven development, and system regulation.
+</p>
+
 
 + Medical Data Solutions Scientist +
     <p> <a href="https://wimmy.co.za/"><img src="assets/wimmy.webp" alt="Wimmy logo with hyperlink" style="height: 1.5em; vertical-align: center; float: left; margin-right: 1em"> </a>  <b>Wimmy (Pty) Ltd</b>  </p>
@@ -224,6 +197,34 @@ I am highly adaptable and outcomes driven, and I enjoy working in a team to try 
     - In acute care, general, paediatric, obstetric, neonatal, psychiatric and surgery departments.
     - Day clinic and primary care work
     - 2-week elective in consultation-liaison psychiatry
+
+## Career goals  
+
+<p style="text-align: justify">
+My ultimate career goal is to advance global health with contributions to an evidence base through the elucidation of pathophysiological pathways in complex syndromic disorders, (with a soft spot for neuropsychiatry and neuropsychoimmunology), focusing on linking biomarkers to clinical presentations.
+</p>
+
+<p style="text-align: justify">
+I feel that large datasets of diverse patient cohorts combined with ML/DL techniques can lead to new insights by minimising selection bias introduced through syndromic patient classifications
+</p>
+
+<p style="text-align: justify">
+I would love to work on any/some combination of the following:  
+- the research, analytics and modelling itself (including how to select and adapt relevant models for the additional reliability and clarity required in the health care setting),  
+- the development and maintenance of reliable research data infrastructure/biobanking, data engineering and data provisioning  
+- higher-level project scoping for data needs and output formats required by researchers and clinicians  
+</p>
+
+
+## Values
+
+<p style="text-align: justify">
+I place huge value in communal knowledge through good scientific communication with experts and non-experts alike. I feel that the translation of research from the lab to the clinical environment is also of great importance – which includes ensuring that models are reliable, rigorous, transparent and valid. 
+
+<p style="text-align: justify">
+I am highly adaptable and outcomes driven, and I enjoy working in a team to try to digest large problem spaces. I believe my experience and insights into data science, health sciences and tech development within corporate, public, and academic sectors would be an asset.
+</p>
+
 
 # Publications  
 <a href="#/outputs?id=outputs" target="_blank">See pdfs of outputs here</a>
@@ -321,13 +322,13 @@ Experience and experimentation with:
     - Dutch (Secondary home language)
     - Afrikaans (fluent non-home language)
     - French (very rusty conversational - high school)
-    - Swedish (CEFR level A2 - 2022)
+    - Swedish (currently attending SFI D), 
 
 - scientific communication
     - conducting literature searches, summaries and reviews
     - writing ethics applications
     - writing academic dissertations and articles
-    - formulation of written, graphical and oral data stories to convey coherent, intelligable insights to laypeople and
+    - formulation of written, graphical and oral data stories to convey coherent, intelligible insights to laypeople and
       experts
     - lecturing and responding to student questions
     - hosting scientific talks with guest speakers
