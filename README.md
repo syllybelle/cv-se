@@ -13,4 +13,5 @@ JS Plugins:
 # Roadmap:
 - add Swedish version
 - go through the text properly
+- embed pdfs more neatly (accordion? direct links using button?)
 
