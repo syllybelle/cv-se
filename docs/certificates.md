@@ -13,6 +13,11 @@
 	./assets/BMedSci_Hons_certificate.pdf
 ```
 
+### High School National Senior Certificate
+```pdf
+	./assets/School-leaving certificate.pdf
+```
+
 ## Additional courses
 
 ### Swedish
@@ -27,7 +32,7 @@
 ### Techniques in Neuroscience
 
 ```pdf
-	./assets/IBRO.pdf
+	./assets/6. IBRO School.pdf
 ```
 
 ### Mathematics for Machine Learning
