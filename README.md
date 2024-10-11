@@ -13,5 +13,6 @@ JS Plugins:
 # Roadmap:
 - add Swedish version
 - go through the text properly
+- implement a more interesting way of presenting skills
 - embed pdfs more neatly (accordion? direct links using button?)
 
