@@ -1,6 +1,6 @@
 ?> I am currently based in Uppsala and am willing to commute and/or relocate. 
 
-?> Current Swedish proficiency: completed [SFI C](https://www.uppsala.se/skola-och-forskola/vuxenutbildning/svenska-for-invandrare-sfi/), now beginning SFI D (October '24)  
+?> Current Swedish proficiency: completed [SFI C](https://www.uppsala.se/skola-och-forskola/vuxenutbildning/svenska-for-invandrare-sfi/), now in SFI D (October '24)  
   
 ?> I am eligible to work in EU/EFTA regions without additional permits.  
 
@@ -35,6 +35,7 @@ At the University of Cape Town, the sixth and final year of a clinical medical d
 
 + Degree: MBChB +
 
+  > 6 year clinical medical degree (roughly equivalent to an MD)
   > University of Cape Town (2020)  
   > Language of instruction: English
 
@@ -54,8 +55,9 @@ At the University of Cape Town, the sixth and final year of a clinical medical d
         - 2019: 2-week elective in consultation-liaison psychiatry with Groote Schuur Hospital’s Psychiatry Department
 
 
-+ Degree: BMedSci (Hons) (Phys) +
++ Degree: BMedSci (Hons) (Phys)  +
 
+  > One year postgraduate research course with course work and dissertation
   > University of Cape Town (2017) - Awarded in the first class  
   > Specialising in physiology and neuroscience  
   > Language of instruction: English
@@ -80,6 +82,8 @@ At the University of Cape Town, the sixth and final year of a clinical medical d
         - Experimentation: western blots (calorimetric and chemiluminescent), immunohistochemistry (confocoal and DAB bright-field), Evans Blue BBB permeability assay. 
         - Dissertation write-up
         - Presentation
+      
+    - 2017-2021: continued working on the project until article publication.
 
 + School-leaving National Senior Certificate +
 
@@ -241,7 +245,7 @@ I am highly adaptable and outcomes driven, and I enjoy working in a team to try 
 - *Conference paper* Van Belle S, Van Belle JP, & Weimann E, 2017, A South African mHealth App for Depression Screening
   and
   Management. ACIST, Cape Town, 10th – 11th July 2017. *See 
-  [programme, paper, and original thesis](./outputs?id=outputs?id=mhealth-project-2015-2017)*
+  [programme, paper, and original thesis](./outputs?id=mhealth-project-2015-2017)*
 
 # Skills and technologies
 
