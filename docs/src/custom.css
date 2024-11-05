@@ -232,6 +232,7 @@ ul.accordion-wrapper > li:not(:first-of-type) {
 }
 
 .right {
+  border-color: var(--base-color)
   transform: rotate(-45deg);
   -webkit-transform: rotate(-45deg);
 }
