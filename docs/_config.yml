@@ -1,4 +1,2 @@
-include:  
-- "_*_.md"  
-- "_*_.*.md"
--"_*.md"
+include:
+  - "_*.md"
