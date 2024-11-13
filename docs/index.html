@@ -40,10 +40,10 @@
         el: "#app",
         repo: 'https://github.com/syllybelle/cv-se/',
         // for working locally, comment out the basePath for live refreshing, however, must be uncommented for local links to work on GitHubActions
-        basePath: 'https://sylvia.vanbelle.se/',
+        basePath: '/',
         loadSidebar: true,
         alias: {
-            '/assets/sidebar.md': '/_sidebar.md'
+            '/.*/_sidebar.md': '/_sidebar.md',
         },
         relativePath: true,
         subMaxLevel: 3,
