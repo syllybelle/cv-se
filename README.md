@@ -14,7 +14,8 @@ JS Plugins:
 - add Swedish version
 - go through the text properly
 - implement a more interesting way of presenting skills
+- figure out how to add a favicon
 - embed pdfs more neatly (accordion? direct links using button?)
 
 > [!NOTE]
-> previously hosted at syllybelle.github.io, now at sylvia.vanbelle.se
+> previously hosted at (https://syllybelle.github.io), now at (https://sylvia.vanbelle.se)
