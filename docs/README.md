@@ -1,5 +1,5 @@
-?> I am currently based in Uppsala and am willing to commute and/or relocate. Available to start with 1 month's notice. 
-?> Current Swedish proficiency: completed [SFI](https://www.uppsala.se/skola-och-forskola/vuxenutbildning/svenska-for-invandrare-sfi/), enrolled to start *svenska som andrasprak* in 2025.  
+?> I am currently based in Uppsala and am willing to commute and/or relocate. Available to start with 1 month's notice.  
+?> Current Swedish proficiency: completed [SFI](https://www.uppsala.se/skola-och-forskola/vuxenutbildning/svenska-for-invandrare-sfi/), and am enrolled to start *Svenska som Andrasprak* (SVA) in 2025.  
 
 # Personal note
 
