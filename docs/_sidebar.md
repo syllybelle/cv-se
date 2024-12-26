@@ -10,6 +10,12 @@
 
 > <hr/>
 
+<div style="box-sizing: inherit; vertical-align: center">
+<img alt="skill domains" src="./assets/domains.svg"></img>
+</div>
+
+> <hr/>
+
 <div style="text-align: center">
 
 <div class="row">

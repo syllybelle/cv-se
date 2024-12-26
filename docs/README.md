@@ -1,8 +1,5 @@
-?> I am currently based in Uppsala and am willing to commute and/or relocate. 
-
-?> Current Swedish proficiency: completed [SFI C](https://www.uppsala.se/skola-och-forskola/vuxenutbildning/svenska-for-invandrare-sfi/), now in SFI D (October '24)  
-  
-?> I am eligible to work in EU/EFTA regions without additional permits.  
+?> I am currently based in Uppsala and am willing to commute and/or relocate. Available to start with 1 month's notice. 
+?> Current Swedish proficiency: completed [SFI](https://www.uppsala.se/skola-och-forskola/vuxenutbildning/svenska-for-invandrare-sfi/), enrolled to start *svenska som andrasprak* in 2025.  
 
 # Personal note
 
@@ -11,7 +8,7 @@ max-width: 256px; margin-left: 1em; margin-bottom: 1em" alt="Profile pic" title=
 
 
 <p style="text-align: justify">
-I am a medical researcher, data scientist, and data solutions developer with a clinical medical degree, postgraduate research degree and over two years' experience in data science and solutions development with a health analytics startup, looking for work in research, clinical data management or health data solutions development in Sweden or remotely.
+I am a medical researcher, data scientist, and data solutions developer with a clinical medical degree, postgraduate research degree and over two years' experience in data science and solutions development with a health analytics startup, looking for work in research, clinical data management or health data solutions development in Sweden or remotely. I am currently completing an internship as a product specialist at EDC software company Viedoc.
 </p>
 
 ## Education  
